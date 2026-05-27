@@ -1,4 +1,4 @@
-# funathon-project2
+# funathon-project2  test MILE
 Repository of the 2nd funathon project (NLP)
 
 Subject's website deployed here : https://aiml4os.github.io/funathon-project2/
